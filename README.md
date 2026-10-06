@@ -1,7 +1,7 @@
 # Mechanistic models for human mobility
 
 <details open>
-<summary>🇬🇧 English</summary>
+<summary> English</summary>
 
 ## Modeling daytime population density based on mechanistic models: the case of Helsinki
 
@@ -19,13 +19,13 @@ Daytime population density is one of the most important metrics for analyzing ur
   - The opportunity priority selection model (Liu et al., 2019)
   - The population-weighted opportunities model (Yan et al., 2014)
 
-## Author
+### Author
 
 Ekaterina Kokurina
 </details>
 
 <details>
-<summary>🇷🇺 Русский</summary>
+<summary> Русский</summary>
 
 ## Моделирование дневной плотности населения на основе механистических моделей на примере Хельсинки
 
@@ -43,7 +43,7 @@ Ekaterina Kokurina
   - Модель выбора приоритетных возможностей (Liu et al., 2019)
   - Модель возможностей, взвешенных по численности населения (Yan et al., 2014)
 
-## Автор
+### Автор
 
 Кокурина Екатерина
 </details>
