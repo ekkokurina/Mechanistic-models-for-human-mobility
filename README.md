@@ -9,7 +9,7 @@ Daytime population density is one of the most important metrics for analyzing ur
 
 ### Data used
 
-- Aggregated gridded mobile operator data with a resolution of 500 by 500 meters on the 24-hour population distribution in the Helsinki Metropolitan Area (Finland) — [Zenodo](https://zenodo.org/records/6106064)
+- Aggregated gridded mobile operator data with a resolution of 250 by 250 meters on the 24-hour population distribution in the Helsinki Metropolitan Area (Finland) — [Zenodo](https://zenodo.org/records/6106064)
 - Points of interest (POI) data from OpenStreetMap — [Geofabrik](https://download.geofabrik.de/europe/finland.html)
 
 ### Models used
@@ -33,7 +33,7 @@ Ekaterina Kokurina
 
 ### Используемые данные
 
-- Агрегированные сеточные данные мобильных операторов с разрешением 500 на 500 метров о 24-часовом распределении населения в Столичном регионе города Хельсинки (Финляндия) — [Zenodo](https://zenodo.org/records/6106064)
+- Агрегированные сеточные данные мобильных операторов с разрешением 250 на 250 метров о 24-часовом распределении населения в Столичном регионе города Хельсинки (Финляндия) — [Zenodo](https://zenodo.org/records/6106064)
 - Данные о точках интереса (POI) из OpenStreetMap — [Geofabrik](https://download.geofabrik.de/europe/finland.html)
 
 ### Используемые модели
